@@ -1,0 +1,22 @@
+h1{
+    color:blueviolet
+}
+img{
+    width: 400px;
+}
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: burlywood;
+    padding: 50px;
+    border-style: groove;
+    border-color: blue;
+    border-width: 5px;
+}
+#spanId {
+    font-size: 18px;
+}
+.divClass {
+    padding: 50px;
+    border: 2px solid red;
+}
